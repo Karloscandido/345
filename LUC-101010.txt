@@ -1,6 +1,6 @@
-###########
-LucSons Team
-###########
+############
+#LucSons Team
+############
 #EXTM3U
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H264" tvg-logo="http://facilx.top:8080/images/136453b381da26d99a2b89a905b357fc.png" group-title="CANAIS | FILMES E SÉRIES",A&E FHD H264
 http://xfacilx.top:8080/101010/101010/67381
@@ -26,8 +26,6 @@ http://xfacilx.top:8080/101010/101010/66567
 http://xfacilx.top:8080/101010/101010/4253
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="ANIMAL PLANET SD" tvg-logo="http://facilx.top:8080/images/ce063ebc7cd75033f93f0ae651507bdc.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD
 http://xfacilx.top:8080/101010/101010/4437
-#EXTINF:-1 tvg-id="" tvg-name="AXE*" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" group-title="RADIOS",AXE*
-http://xfacilx.top:8080/101010/101010/9141
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD H264" tvg-logo="http://facilx.top:8080/images/4c82075bfa3ae92cab273d568c92773d.png" group-title="CANAIS | FILMES E SÉRIES",AXN FHD H264
 http://xfacilx.top:8080/101010/101010/66699
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD H265" tvg-logo="http://facilx.top:8080/images/4c82075bfa3ae92cab273d568c92773d.png" group-title="CANAIS | FILMES E SÉRIES",AXN FHD H265
