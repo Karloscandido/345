@@ -1,1 +1,1 @@
-{"user_info": "username":"Admin18","password":"72282929","message":"Bem-vindo ao Xtream Codes Reborn","auth": "1","status":"Ativo", "exp_date ":"1707777350","is_trial":"0","active_cons":"0","created_at":"1652394950","max_connections":"1","allowed_output_formats": "m3u8"," ts","server_info": "url":"meuplay.shop","port":"80","https_port":"443","server_protocol":"http","rtmp_port":"1935 ", "timezone":"America\/Sao_Paulo","timestamp_now":"1681942274"}
+{ "url": "http://meuplay.shop:80/player_api.php?username=Admin18&password=72282929&type=m3u_plus"}
