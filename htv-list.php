@@ -1,0 +1,1 @@
+{ "list": "https://raw.githubusercontent.com/Karloscandido/345/main/CANAIS_LUCSONSv2.php","User-Agent": "VLC/3.0.11.2 LibVLC/3.0.11.2", "validity": "31/12/2666", "success": true, "notifications": "" }
