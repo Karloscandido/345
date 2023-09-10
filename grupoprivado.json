@@ -1,0 +1,1 @@
+http://splaytv.club:8880/player_api.php?username=qVPrvXEq7sPK&password=xazcGuY5qY3R&type=m3u_plus
